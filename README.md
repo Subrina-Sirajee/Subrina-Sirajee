@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subrina-sirajee&label=Profile%20views&color=0e75b6&style=flat" alt="subrina-sirajee" /> </p>
 
-- 🔭 I’m currently working on **Anchorblock Technology LLC as intern(Data Science X Quant)**
+- 🔭 I’m currently working on **Anchorblock Technology LLC as Data Science X Quant Fellow**
 
 - 🌱 I’m currently learning **Finance, stock market analysis**
 
