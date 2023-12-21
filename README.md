@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Anchorblock Technology LLC as Data Science X Quant Fellow**
 
-- 🌱 I’m currently learning **Finance and stock market data analysis**
+- 🌱 I’m currently learning about **Finance and stock market data analysis**
 
 - 💬 Ask me about **AI, Machine Learning, Quantitative Analysis**
 
