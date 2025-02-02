@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subrina-sirajee&label=Profile%20views&color=0e75b6&style=flat" alt="subrina-sirajee" /> </p>
 
-- 🔭 I’m currently working on **Obboy Labs Limited as a Financial Analyst**
+- 🔭 Worked in **Anchorblock Technology as a Quantitative Analyst**
 
-- 🌱 I’m currently learning about **Basic accounting and Financial and reporting analysis**
+- 🌱 I’m currently learning about **Flask Framework**
 
 - 💬 Ask me about **AI, Machine Learning, Quantitative Analysis**
 
