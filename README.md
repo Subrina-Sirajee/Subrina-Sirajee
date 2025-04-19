@@ -19,7 +19,7 @@
 <a href="https://www.codechef.com/users/subrina_sirajee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="subrina sirajee" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/subrina_sirajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subrina sirajee" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/subrina_sirajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="subrina sirajee" height="30" width="40" /></a>
-<a href="https://leetcode.com/subrina_sirajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subrina sirajee" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/SubrinaSirajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subrina sirajee" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/subrina_sirajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subrina sirajee" height="30" width="40" /></a>
 </p>
 
